@@ -8,17 +8,17 @@
   "env": {
       "APP_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "21016163",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "365f3421c4243310e1c738e2b6fb63a1",
           "required": true
       },
       "TG_BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "",
+          "value": "6428354863:AAGaHVbq-TPJSnyA942Tm2UsPRadqXJ5cuU",
           "required": true
       },
       "OWNER": {
@@ -43,7 +43,7 @@
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "",
+          "value": "mongodb+srv://ypdlgzkysktst:ARoIOoNKdohI47nl@cluster0.pqkdn8x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
           "required": true
       },
       "DB_NAME":{ 
@@ -68,7 +68,7 @@
       },
       "PROTECT_CONTENT": {
         "description": "Protect contents from getting forwarded",
-        "value": "False",
+        "value": "True",
         "required": false
       },
       "SECONDS": {
