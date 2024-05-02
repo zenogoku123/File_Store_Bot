@@ -43,7 +43,7 @@
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "mongodb+srv://gokumuikaioken20times:@qazplmwsxoknABC123@cluster0.4ed1fpj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+          "value": "mongodb+srv://frankanimes:qayplmwsxokn@cluster0.xksjqdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
           "required": true
       },
       "DB_NAME":{ 
